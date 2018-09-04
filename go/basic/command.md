@@ -1,4 +1,4 @@
-# command
+# go command
 
 ### go build
 
