@@ -1,4 +1,4 @@
-# go
+# go :100:
 
 ### go语言基础
 - [GO 命令](/go/basic/command.md)
