@@ -1,6 +1,7 @@
 # go :100:
 
 ### go语言基础
+
 - [GO 命令](/go/basic/command.md)
 - Go是一门类似C的编译型语言，但是它的编译速度非常快。
 
@@ -14,4 +15,4 @@
 
 - [hello go](/go/basic/hellogo.md)
 - [go 基础](/go/basic/basic.md)
-
+- [struct](/go/basic/struct.md)
