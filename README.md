@@ -16,3 +16,4 @@
 - [hello go](/go/basic/hellogo.md)
 - [go 基础](/go/basic/basic.md)
 - [struct](/go/basic/struct.md)
+- [interface](/go/basic/interface.md)
