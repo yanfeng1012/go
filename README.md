@@ -17,3 +17,4 @@
 - [go 基础](/go/basic/basic.md)
 - [struct](/go/basic/struct.md)
 - [interface](/go/basic/interface.md)
+- [go test](/go/basic/test.md)
